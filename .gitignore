@@ -1,3 +1,4 @@
 .env
 body/
 home/
+.gitignore
